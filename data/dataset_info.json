@@ -188,4 +188,15 @@
       "history": "history"
     }
   }
+  ,
+  "onedata_zh": {
+    "file_name": "onedata_zh.json",
+    "file_sha1": "1065af1f3784dd61be5e79713a35f427b713a239",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  }
 }
